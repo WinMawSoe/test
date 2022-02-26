@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+h1.color-yellow {
+  color: yellow;
+}
+
+h1.age-color {
+  color: green;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
